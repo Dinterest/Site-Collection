@@ -5,3 +5,7 @@ https://zh.practice.rs/why-exercise.html	rust语言实战
 https://github.com/sunface/rust-course  rust语言圣经
 https://doc.rust-lang.org/cargo/index.html  Cargo book
 https://doc.rust-lang.org/book/#the-rust-programming-language	官方文档
+https://kaisery.gitbooks.io/trpl-zh-cn/content/					Rust 程序设计语言
+https://doc.rust-lang.org/rust-by-example/						在线代码阅读
+https://github.com/KaiserY/rust-book-chinese					Rust程序设计语言 Github
+https://rustcc.cn/												中文社区
