@@ -1,0 +1,7 @@
+rust 学习资料
+
+https://course.rs/into-rust.html  rust中文学习网站
+https://zh.practice.rs/why-exercise.html	rust语言实战
+https://github.com/sunface/rust-course  rust语言圣经
+https://doc.rust-lang.org/cargo/index.html  Cargo book
+https://doc.rust-lang.org/book/#the-rust-programming-language	官方文档
